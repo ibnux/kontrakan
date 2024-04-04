@@ -3,6 +3,7 @@
 $judul_web = "Kontrakan Q3-6";
 
 $tarif_perbulan = 1500000;
+# nomor HP 6281xxxx
 $pengontrak_nomor = '';
 $pengontrak_nama = '';
 $pengontrak_email = '';
